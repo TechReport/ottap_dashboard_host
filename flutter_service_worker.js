@@ -6,7 +6,7 @@ const RESOURCES = {
   "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"main.dart.js": "355855f75a7f1d54e1bce781f204b362",
+"main.dart.js": "88cba8215110c93da1933d4833ed4d3c",
 "assets/AssetManifest.json": "feb8c48849bb119feb0b838f495acf2f",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
@@ -36,8 +36,8 @@ const RESOURCES = {
 "assets/assets/location.png": "2039d9d799a48d3954ae130d8225d4ed",
 "assets/assets/concert.png": "60c6a1fec04c166b9fd3c607277c75a4",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"index.html": "c949f6e5e6508d36bb07b8a6adbfad85",
-"/": "c949f6e5e6508d36bb07b8a6adbfad85",
+"index.html": "968ae639f990adf9a51fd1eff4f2655a",
+"/": "968ae639f990adf9a51fd1eff4f2655a",
 "version.json": "4c73ed5af6730f8b3a9bf235e0ba9c4e",
 "manifest.json": "444e203ab9bb2b940bd7175e6bb5bfed"
 };
